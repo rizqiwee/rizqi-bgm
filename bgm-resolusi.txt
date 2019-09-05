@@ -6,3 +6,5 @@ BGM RESOLUSI
    - LEGAL
    - SHE
    - ATK & RTK
+   - Meeting
+   - Pengeluaran
