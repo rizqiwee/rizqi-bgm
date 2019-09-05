@@ -4,3 +4,5 @@ BGM RESOLUSI
    - GA
    - FINANCE
    - LEGAL
+   - SHE
+   - ATK & RTK
