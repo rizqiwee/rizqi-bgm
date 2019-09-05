@@ -1,0 +1,6 @@
+BGM RESOLUSI
+- Membuat sistem informasi manajemen PT.Batu Gunung Mulia yang memiliki fitur:
+   - HR
+   - GA
+   - FINANCE
+   - LEGAL
